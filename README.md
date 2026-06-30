@@ -1,4 +1,4 @@
-# Turbojet Performance Analysis
+# Afterburning Turbojet Performance Analysis
 
 MATLAB-based turbojet engine performance analysis project using atmospheric data and cycle calculations.
 
